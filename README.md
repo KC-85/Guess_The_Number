@@ -15,5 +15,8 @@ This is a simple number guessing game where the player has to guess a randomly g
 You have 4 attempts remaining. Make a guess: 75, Too high! 📈 Try again. 
 You have 3 attempts remaining. Make a guess: 63, 🎉 Congratulations! You guessed the number 63 correctly! 🎉
 
+## Deployment
+
+
 ## Note
 Will only work on Desktop or Laptop due to limitations of the CLI used.
